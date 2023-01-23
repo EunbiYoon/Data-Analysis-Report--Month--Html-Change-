@@ -5,7 +5,6 @@ from datetime import datetime
 import numpy as np
 import pandas as pd
 from dateutil import relativedelta
-import math
 
 ##### 올해 몇월인지 구하기
 Today_Year=int(datetime.today().year)
